@@ -5,7 +5,7 @@
 
 ## Дополнительные задания
 - Фильтр слов
-- 
+
 ## Пользовательский интерфейс
 1. Список чатов                       
    ![slide1](https://github.com/MaksikLastik/Labwork-3/blob/main/image%20gor%20README/Список%20чатов.png)
